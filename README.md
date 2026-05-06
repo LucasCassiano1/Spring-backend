@@ -1,1 +1,1 @@
-## Repositorio destinado a matéria de Tópicos especiais em informática
+## Repositório destinado a matéria de Tópicos especiais em informática
